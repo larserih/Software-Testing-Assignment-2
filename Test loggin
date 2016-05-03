@@ -8,11 +8,11 @@
 <body>
 <table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
 <tr><td><b>Test Suite</b></td></tr>
-<tr><td><a href="Test1 register">Test1 register</a></td></tr>
-<tr><td><a href="Test2 sign in">Test2 sign in</a></td></tr>
-<tr><td><a href="Test3 wrong password">Test3 wrong password</a></td></tr>
-<tr><td><a href="Test4 change password">Test4 change password</a></td></tr>
-<tr><td><a href="Test5 reset password">Test5 reset password</a></td></tr>
+<tr><td><a href="Testene/Test1 register">Test1 register</a></td></tr>
+<tr><td><a href="Testene/Test2 sign in">Test2 sign in</a></td></tr>
+<tr><td><a href="Testene/Test3 wrong password">Test3 wrong password</a></td></tr>
+<tr><td><a href="Testene/Test4 change password">Test4 change password</a></td></tr>
+<tr><td><a href="Testene/Test5 reset password">Test5 reset password</a></td></tr>
 </tbody></table>
 </body>
 </html>

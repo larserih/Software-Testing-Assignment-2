@@ -8,11 +8,11 @@
 <body>
 <table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
 <tr><td><b>Test Suite</b></td></tr>
-<tr><td><a href="Test10 register">Test10 register</a></td></tr>
-<tr><td><a href="test10 addToCart">test10 addToCart</a></td></tr>
-<tr><td><a href="test10 addToCartNotEmpty">test10 addToCartNotEmpty</a></td></tr>
-<tr><td><a href="test10 removeFromCart">test10 removeFromCart</a></td></tr>
-<tr><td><a href="test10 changeAmount">test10 changeAmount</a></td></tr>
+<tr><td><a href="Testene/Test10 register">Test10 register</a></td></tr>
+<tr><td><a href="Testene/test10 addToCart">test10 addToCart</a></td></tr>
+<tr><td><a href="Testene/test10 addToCartNotEmpty">test10 addToCartNotEmpty</a></td></tr>
+<tr><td><a href="Testene/test10 removeFromCart">test10 removeFromCart</a></td></tr>
+<tr><td><a href="Testene/test10 changeAmount">test10 changeAmount</a></td></tr>
 </tbody></table>
 </body>
 </html>
