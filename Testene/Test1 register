@@ -29,7 +29,7 @@
 <tr>
 	<td>type</td>
 	<td>name=customer_info[Customer][Email]</td>
-	<td>pisteffa9@yopmail.com</td>
+	<td>pisteffa30@yopmail.com</td>
 </tr>
 <tr>
 	<td>type</td>
@@ -79,6 +79,11 @@
 <tr>
 	<td>clickAndWait</td>
 	<td>//input[@value='Register']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>5000</td>
 	<td></td>
 </tr>
 <tr>

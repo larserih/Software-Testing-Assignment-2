@@ -9,7 +9,7 @@
 <table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
 <tr><td><b>Test Suite</b></td></tr>
 <tr><td><a href="Testene/test1 checkout not logged in">test1 checkout not logged in</a></td></tr>
-<tr><td><a href="Testene/Test2 sign in">Test2 sign in</a></td></tr>
+<tr><td><a href="Testene/Test3 sign in.html">Test3 sign in</a></td></tr>
 <tr><td><a href="Testene/test2 checkout">test2 checkout</a></td></tr>
 <tr><td><a href="Testene/test1 placing order">test1 placing order</a></td></tr>
 </tbody></table>
